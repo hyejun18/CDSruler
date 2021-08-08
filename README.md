@@ -1,6 +1,6 @@
 # CDSruler
 
-This tool will be calculate the length of CDS and UTR from genePred table of UCSC table browser.
+This portable tool will be calculate the length of CDS and UTR from genePred table of UCSC table browser.
 This was especially designed for NCBI RefSeq.
 
 Usage : python3 CDSruler.py file(input, not gzipped) file(output, not gzipped)
