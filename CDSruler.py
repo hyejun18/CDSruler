@@ -44,7 +44,7 @@ def add(i, df):
 def main(args):
     if (args[1] == '--help') or (args[1] == '-h'):
         print('''
-        This tool will be calculate the length of CDS and UTR from genePred table of UCSC table browser.
+        This tool will calculate the length of CDS and UTR from genePred table of UCSC table browser.
         This was especially designed for NCBI RefSeq.
         
         Usage : python3 CDSruler.py file(input, not gzipped) file(output, not gzipped)
